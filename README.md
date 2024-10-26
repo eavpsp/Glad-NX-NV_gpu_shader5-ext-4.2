@@ -12,8 +12,7 @@ This repository is a fork of LIBNX's GLAD, updated to support OpenGL 4.4 and the
 
 ### Prerequisites
 
-- Ensure you have a working build environment compatible with LIBNX.
-- Install the necessary development tools and libraries for OpenGL and NV GPU Shader 5.
+- Ensure you have a working build DEVKITPRO environment compatible with LIBNX.
 
 ### Installation
 
