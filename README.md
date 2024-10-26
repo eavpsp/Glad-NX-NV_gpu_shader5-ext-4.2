@@ -19,7 +19,7 @@ This repository is a fork of LIBNX's GLAD, updated to support OpenGL 4.4 and the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eavpsp/glad-fork-libnx.git
+   git clone https://github.com/eavpsp/Glad-NX-NV_gpu_shader5-ext-4.2.git
    cd glad-fork-libnx
    ```
 
