@@ -32,7 +32,7 @@ This repository is a fork of LIBNX's GLAD, updated to support OpenGL 4.4 and the
 
 ## Usage
 
-Refer to the [OpenGL 4.4 documentation](https://www.opengl.org/documentation/) and [NV GPU Shader 5 extension guide](https://developer.nvidia.com/nv-gpu-shader5) for detailed instructions on using the new features in your applications.
+Refer to the [OpenGL 4.4 documentation](https://registry.khronos.org/OpenGL/specs/gl/glspec44.core.pdf) and [NV GPU Shader 5 extension guide](https://registry.khronos.org/OpenGL/extensions/NV/NV_gpu_shader5.txt) for detailed instructions on using the new features in your applications.
 
 ## Contributing
 
