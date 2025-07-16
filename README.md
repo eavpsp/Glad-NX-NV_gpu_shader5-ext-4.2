@@ -27,9 +27,11 @@ This repository is a fork of LIBNX's GLAD, updated to support OpenGL 4.4 and the
    make
    ```
 
-3. Integrate with your existing project, ensuring to update your build scripts to link against the new GLAD library.
+3. Integrate with your existing project, ensuring to update your build scripts to link against the new GLAD library. To do so, repalce the glad header and lib in your libnx portlibs. 
+devkitpro/portlibs/switch
 
 ## Usage
+
 
 Refer to the [OpenGL 4.4 documentation](https://registry.khronos.org/OpenGL/specs/gl/glspec44.core.pdf) and [NV GPU Shader 5 extension guide](https://registry.khronos.org/OpenGL/extensions/NV/NV_gpu_shader5.txt) for detailed instructions on using the new features in your applications.
 
